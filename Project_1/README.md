@@ -6,7 +6,7 @@ This is a data jobs salary dashboard to help job seekers compare salaries for th
 
 
 ### Dashboard File
-The final dashboard: [Salary Dashboard](Data_Jobs_salary_Dashboard.xlsx).
+The final dashboard: [Salary Dashboard](Data_Jobs_Salary_Dashboard.xlsx).
 
 ### Excel Skills Used
 
